@@ -1,0 +1,16 @@
+Hi Ravikumar Sammeta, 
+
+Thank you for sending me the assignments. 
+My solutions are attached below. The interview matrix form is also been attached. 
+
+
+Can you please forward this message to the reviewer? 
+"
+I never used Spark so question 2 is skipped. 
+I also never used Jenkins, but I tried my best to learn to solve the test. I took a whole day to learn it from scratch, I've done some work in the Jenkins server locally, but for the static code, I think that simple Jenkinsfile is the only thing I can submit. 
+" 
+
+Please let me know if anything else is needed. I look forward to hearing from you. 
+
+Kind regards,
+Zi Jin 
